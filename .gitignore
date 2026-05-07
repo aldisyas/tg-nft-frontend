@@ -6,3 +6,11 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+*.log
+.env
+__pycache__/
+.DS_Store
+venv/
+node_modules/
+dist/
+build/
